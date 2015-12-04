@@ -1,0 +1,5 @@
+#app---静态文件
+## app->public->lib------存放第三方包
+
+#.bowerrc
+###{"directory":"app/public/lib"}

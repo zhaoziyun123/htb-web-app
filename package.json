@@ -1,0 +1,30 @@
+{
+  "name": "web_app",
+  "version": "1.0.0",
+  "description": "this is 恒添宝web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaoziyun123/htb-web-app"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "node",
+    "gulp",
+    "express",
+    "bower"
+  ],
+  "author": "zhaoziyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaoziyun123/htb-web-app/issues"
+  },
+  "homepage": "https://github.com/zhaoziyun123/htb-web-app#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
